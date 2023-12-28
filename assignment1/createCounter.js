@@ -6,4 +6,5 @@ function count(endingCount)
         console.log(i);
     }
 }
+
 count(30);
